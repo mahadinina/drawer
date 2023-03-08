@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="OpenDrawer">Open Navigation Drawer</string>
+    <string name="CloseDrawer">Close Navigation Drawer</string>
+    <string name="A_Fragment">Home fragment</string>
+    <string name="B_Fragment">Notes fragment</string>
+    <string name="C_Fragment">Settings fragment</string>
+
+</resources>
